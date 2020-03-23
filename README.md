@@ -1,2 +1,6 @@
 # Kaggle-ML-Competitions
-A repository for studying/practicing Kaggle competition notebooks from other developers.
+This repository will serve as a collection of all my Kaggle compitition notebooks. 
+
+## Compitition List:
+
+1. Pima Indians Diabetes Database https://www.kaggle.com/uciml/pima-indians-diabetes-database
