@@ -1,5 +1,5 @@
 # Kaggle-ML-Competitions
-This repository will serve as a collection of all my Kaggle compitition notebooks. 
+This repository will serve as a collection of all my practice notebooks for different Kaggle compititions. 
 
 ### Compitition List:
 
