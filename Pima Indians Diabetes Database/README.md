@@ -9,4 +9,5 @@ I got a predicion accuracy of 0.765625 on the test dataset. I performed the foll
 2. Exploring / Visualizing the cleaned data 
 3. Applying the KNN model on cleaned data
 
-![Finding the best value for k](https://github.com/abhi094/Kaggle-Competitions/blob/master/Pima%20Indians%20Diabetes%20Database/Annotation_2020-03-25%20211219.png?raw=true "Title")
+Finding the best value for k
+![Finding the best value for k](https://github.com/abhi094/Kaggle-Competitions/blob/master/Pima%20Indians%20Diabetes%20Database/Annotation_2020-03-25%20211219.png?raw=true "Finding the best value for k")
