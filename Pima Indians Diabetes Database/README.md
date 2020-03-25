@@ -5,3 +5,4 @@
 
 #### Summary:
 I used 
+![Image](Diabetes_Classification_KNN.ipynb)
