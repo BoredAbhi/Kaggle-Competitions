@@ -3,4 +3,4 @@ This repository will serve as a collection of all my practice notebooks for diff
 
 ### Compitition List:
 
-1. [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+1. [Pima Indians Diabetes Database](https://github.com/abhi094/Kaggle-Competitions/tree/master/Pima%20Indians%20Diabetes%20Database)
