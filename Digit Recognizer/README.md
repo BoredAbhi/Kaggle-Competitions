@@ -1,10 +1,9 @@
-# Kaggle-ML-Competitions
-This repository will serve as a collection of all my practice notebooks for different Kaggle compititions. 
+# Digit Recognizer
 
-### Compitition List:
+#### Task : Learn computer vision fundamentals with the famous MNIST data
+#### Kaggle Link : https://www.kaggle.com/c/digit-recognizer/overview
 
-1. [Pima Indians Diabetes Database](https://github.com/abhi094/Kaggle-Competitions/tree/master/Pima%20Indians%20Diabetes%20Database)
-2. 
-3. 
-4.
-5. AWS project
+#### Summary:
+
+
+
