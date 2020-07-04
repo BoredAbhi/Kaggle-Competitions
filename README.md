@@ -4,7 +4,7 @@ This repository will serve as a collection of all my practice notebooks for diff
 ### Compitition List:
 
 1. [Housing Prices Prediction](https://github.com/abhi094/Kaggle-Competitions/tree/master/Housing%20Prices%20Prediction)
-2. Digit Recognizer
+2. [Digit Recognizer](https://github.com/abhi094/Kaggle-Competitions/tree/master/Digit%20Recognizer)
 3. [Pima Indians Diabetes Database](https://github.com/abhi094/Kaggle-Competitions/tree/master/Pima%20Indians%20Diabetes%20Database)
 4.
 5. AWS project
