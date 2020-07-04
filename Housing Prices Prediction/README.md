@@ -1,6 +1,6 @@
 # Housing Price Prediction
 
-**Problem :** Predict the housing prices from a list of 80 input features 
+**Problem :** Predict the housing prices from a list of 80 input features by data analysis and regression models
 
 **Kaggle Link :** https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
